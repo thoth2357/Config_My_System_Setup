@@ -1,0 +1,21 @@
+polybar
+
+picom
+
+i3-gaps
+
+gestures		cunidev's GitLab
+
+neofetch
+
+kitty
+
+dunst
+
+ranger
+
+rofi
+
+starship
+
+

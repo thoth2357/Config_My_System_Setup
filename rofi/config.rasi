@@ -1,0 +1,4 @@
+configuration {
+    font: "CozetteVector 9";
+}
+@import "/usr/share/rofi/themes/solarized.rasi"
